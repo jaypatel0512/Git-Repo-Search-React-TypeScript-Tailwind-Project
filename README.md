@@ -1,5 +1,11 @@
-# React github test project
+# React github API test project
 
-we can serch the list of repos
+## search the username 
 
-when click on + beside repoList button we can bookmark list in console for now
+## first card will list repos
+
+## click add button to bookmark that list
+
+## now you can check that to list of bookmark
+
+
