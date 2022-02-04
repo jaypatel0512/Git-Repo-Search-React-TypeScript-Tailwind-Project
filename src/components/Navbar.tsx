@@ -18,19 +18,6 @@ export default function Navbar() {
    
   </div>
 
-    // <div className="hidden md:flex items-center space-x-1">
-      
-    //   <Link
-    //     className="py-4 px-2 text-green-500 border-b-4 border-green-500 font-semibold "
-    //     key={"Home"}
-    //     to={"/"}
-    //   >Home</Link><br/>
-    //   <Link
-    //     className="py-4 px-2 text-green-500 border-b-4 border-green-500 font-semibold "
-    //     key={"Bookmark"}
-    //     to={"/bookmark"}
-    //   >Bookmark</Link><br/>
-      
-    // </div>
+    
   );
 }
